@@ -14,7 +14,7 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Final Adaptive Machine Learning App 1.0_1_0_0_0\Final Adaptive Machine Learning App 1.0.exe.manifest" size="5222">
+    <dependentAssembly dependencyType="install" codebase="Application Files\Final Adaptive Machine Learning App 1.0_1_0_0_1\Final Adaptive Machine Learning App 1.0.exe.manifest" size="5222">
       <assemblyIdentity name="Final Adaptive Machine Learning App 1.0.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="en-US" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
